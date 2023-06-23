@@ -6,7 +6,7 @@ description: "Some short description of your blog can go here." # This will show
 # All of these are optional and can be removed or commented out
 email: "nguyenminhmannh2001@mail.com"
 #twitter_username: "twitteruser"
-github_username: "https://github.com/minhmannh2001"
+github_username: "[minhmannh2001](https://github.com/minhmannh2001)"
 #linkedin_username: "linkedinuser"
 facebook_username: https://www.facebook.com/minhmannh2001/
 #flickr_username: username
@@ -20,7 +20,7 @@ facebook_username: https://www.facebook.com/minhmannh2001/
 #########################################################################################
 theme: "minima"
 
-rss: rss
+# rss: rss
 
 kramdown:
   syntax_highlighter_opts:
