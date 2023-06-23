@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to my technology blog!
 
-Maybe say a some things about yourself.
+I'm Manh, a backend developer. Here, I aim to share tutorials, articles, and insights on various tech topics.
 
-Or maybe what you plan to blog about.
+I hope you find value in my content. Let me know if you have any feedback or suggestions for improvement. Enjoy exploring the world of technology with me!
